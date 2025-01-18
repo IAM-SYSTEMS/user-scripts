@@ -1,1 +1,1 @@
-# Varias scripts used to automate IAMHOME servers
+# Various scripts used to automate IAMHOME servers

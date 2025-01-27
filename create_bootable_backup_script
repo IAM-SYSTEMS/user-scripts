@@ -1,0 +1,3 @@
+#!/bin/bash
+cp /boot/config/plugins/user.scripts/scripts/rclone_backup_script/script /mnt/user/backups/rclone_backup_script.sh
+chmod +x /mnt/user/backups/rclone_backup_script.sh
